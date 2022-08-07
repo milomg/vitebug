@@ -1,0 +1,19 @@
+{
+  "name": "vitebug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "terser": "^5.14.2",
+    "vite": "^3.0.4"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.34.0"
+  }
+}
